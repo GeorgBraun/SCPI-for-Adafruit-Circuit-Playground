@@ -70,7 +70,7 @@ unsigned long millisCurrent; //Zeitstempel Variable
 //////////////////////////////////////////////////
 
 // Settings for development mode. Do not change.
-#define HMDEV
+//#define HMDEV
 
 //////////////////////////////////////////////////
 // Setup                                       ///

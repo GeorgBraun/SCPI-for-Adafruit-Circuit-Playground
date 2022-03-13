@@ -1,5 +1,5 @@
 # SCPI-for-Adafruit-Circuit-Playground
 
-Firmware for the Adafruit Circuit Playground enabling the SCPI protocol with examples in C#, LabVIEW and others.
+Firmware for the Adafruit Circuit Playground Classic enabling the SCPI protocol via USB serial connection.
 
-Files for firmware and examples will be posted here, soon.
+**Attention: Circuit Playground Express is currently not supported!**
